@@ -1,0 +1,85 @@
+body{
+  background-color: #273850;
+      color: #fffefe;}
+
+h1{
+  color:cyan;
+  font-family: 'Tapestry', cursive;
+}
+.main{
+     border: solid 7px;
+      border-radius: 105px;
+     border-color: #c9c9c9;
+      margin-left: 520px;
+     margin-top: 20px;
+     width: 150px;
+}
+.s{
+  display: block;
+    margin: 20px 300px 20px 300px;
+    line-height: 25px;
+    word-spacing: 2px;
+    font-size: 20px;
+}
+.b{
+   margin-left: 538px;
+}
+.c{
+   margin-left: 282px;
+   color: gold;
+}
+a:hover{
+  color: cyan;
+}
+.sec{
+  width: 300px;
+    margin-left: 45px;
+    float: left;
+}
+.sk,ol{
+  display:inline-block;
+}
+.skills{
+          margin: 50px 0 0 282px;
+}
+.o{
+  font-size: 20px;
+  margin: 50px 13px 98px 188px;
+    line-height: 2;
+    word-spacing: 2px;
+}
+.pro{
+  width: 315px;
+    float: right;
+    margin: 0 100px 0 0;
+}
+.ai{
+  line-height: 2;
+  word-spacing: 2px;
+  font-size: 20px;
+ margin : 0 13px 105px 188px;
+}
+.my{
+  margin: 50px 0 40px 282px;
+}
+.exp{
+  width: 285px;
+    float: left;
+        margin: 10px 0 0 50px;
+}
+.ex{
+  margin: 52px 0 0 600px;
+}
+.e{
+      margin: 55px 0 100px 510px;
+      line-height: 2;
+      word-spacing: 2px;
+      font-size: 20px;
+}
+.Contact{
+      color: gold;
+      margin: 0 30px 0 75px;
+}
+.Support{
+  color: gold;
+}
